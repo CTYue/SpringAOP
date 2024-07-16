@@ -1,0 +1,1 @@
+This repo gives a minimized example of Spring AOP implementation, integrated with [Swagger ui](http://localhost:8080/swagger-ui/index.html).
